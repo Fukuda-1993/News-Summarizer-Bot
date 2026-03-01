@@ -29,11 +29,7 @@ AI（Groq / Llama 3.3）を活用し、AI・プログラミング領域の最新
 3. **要約**: `Groq.gs` が高速推論エンジンを用いて、技術内容を構造化要約。
 4. **配信**: `line.gs` が整形されたテキスト（タイトル・要約・URL）をLINEへ送信。
 
-## セットアップ
-
-1. LINE DevelopersでチャネルアクセストークンとユーザーIDを取得。
-2. [Groq Cloud](https://console.groq.com/)でAPIキーを取得。
-3. GASの「スクリプトプロパティ」に以下のキーを設定。
+## GASの「スクリプトプロパティ」に以下のキーを設定。
    - `GROQ_API_KEY`
    - `LINE_ACCESS_TOKEN`
    - `LINE_USER_ID`
