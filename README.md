@@ -59,4 +59,4 @@ AI（Groq / Llama 3.3）を活用し、AI・プログラミング領域の最新
 
 **イメージキャプチャ**
 
-<img width="75" height="128" alt="IMG_2956" src="https://github.com/user-attachments/assets/60e041fe-086f-439c-b550-d32e9731b7e8" />
+<img width="250" height="750" alt="IMG_2956" src="https://github.com/user-attachments/assets/60e041fe-086f-439c-b550-d32e9731b7e8" />
